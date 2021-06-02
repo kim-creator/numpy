@@ -1,1 +1,6 @@
-https://colab.research.google.com/drive/16773HZxz6ar3Ohdi5iANOXm7h-3CpI7E#scrollTo=YwN0XHn_Umu9
+numeric python
+수치 연산을 위한 파이썬 라이브러리
+과학에 관련된 모듈 scipy
+일반 파이썬을 이용할 때 보다 수치 연산에 관해 훨씬 빠르다.
+배열 병렬 연산에 특화
+
